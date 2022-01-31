@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.json_models"
+		},
+		{
+			"path": "..\\..\\.vscode"
+		},
+		{
+			"path": "..\\..\\Carrito"
+		},
+		{
+			"path": "..\\..\\Catalogo"
+		},
+		{
+			"path": ".."
+		}
+	]
+}
